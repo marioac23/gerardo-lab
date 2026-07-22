@@ -18,7 +18,7 @@ nav:
 
 ## Highlighted
 
-{% include citation.html data="citations" lookup="2026" %}
+{% include list.html data="citations" component="citation" filter="date >= '2025-07-22'" %}
 
 
 {% include section.html %}
