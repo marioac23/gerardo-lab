@@ -18,7 +18,6 @@ nav:
 
 ## Highlighted
 
-{% include citation.html lookup="Inductive link prediction facilitates" style="rich" %}
 {% include citation.html data="citations" component="citation" filters="gerardo: true" %}
 
 
