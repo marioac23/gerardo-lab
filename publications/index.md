@@ -18,7 +18,7 @@ nav:
 
 ## Highlighted
 
-{% include citation.html data="citations" component="citation" filters="gerardo: true" %}
+{% include citation.html data="citations" component="citation" %}
 
 
 {% include section.html %}
