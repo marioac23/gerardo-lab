@@ -2,7 +2,7 @@
 title: Research
 nav:
   order: 1
-  tooltip: Published works
+  tooltip: Research directions
 ---
 
 # {% include icon.html icon="fa-solid fa-microscope" %}Research
@@ -12,16 +12,11 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
 
 {% include section.html %}
 
-## Highlighted
+## Topic of research 1
 
-{% include citation.html lookup="Open collaborative writing with Manubot" style="rich" %}
 
 {% include section.html %}
 
-## All
+## Topic of research 2
 
-{% include search-box.html %}
 
-{% include search-info.html %}
-
-{% include list.html data="citations" component="citation" style="rich" %}
