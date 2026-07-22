@@ -18,7 +18,7 @@ nav:
 
 ## Highlighted
 
-{% include citation.html data="citations" component="citation" %}
+{% include citation.html data="citations" lookup="2026" %}
 
 
 {% include section.html %}
@@ -29,5 +29,5 @@ nav:
 
 {% include search-info.html %}
 
-{% include citation.html data="citations" component="citation" style="rich" %}
+{% include list.html data="citations" component="citation" style="rich" %}
 
