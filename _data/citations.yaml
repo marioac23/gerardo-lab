@@ -16,8 +16,6 @@
   publisher: The Plant Cell
   date: '2026-06-01'
   link: https://doi.org/hcb9v2
-  orcid: 0000-0003-2079-1746
-  gerardo: true
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1016/j.pbi.2025.102764
@@ -28,8 +26,6 @@
   publisher: Current Opinion in Plant Biology
   date: '2025-10-01'
   link: https://doi.org/hcb9v3
-  orcid: 0000-0003-2079-1746
-  gerardo: true
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1101/2025.05.28.656625
@@ -43,8 +39,6 @@
   publisher: openRxiv
   date: '2025-06-01'
   link: https://doi.org/hcb9v4
-  orcid: 0000-0003-2079-1746
-  gerardo: true
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1242/dev.204449
@@ -60,8 +54,6 @@
   publisher: Development
   date: '2025-04-01'
   link: https://doi.org/hcb9v5
-  orcid: 0000-0003-2079-1746
-  gerardo: true
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1093/nar/gkae572
@@ -78,47 +70,8 @@
   publisher: Nucleic Acids Research
   date: '2024-07-05'
   link: https://doi.org/gt3wh8
-  orcid: 0000-0003-2079-1746
-  gerardo: true
   plugin: sources.py
   file: sources.yaml
-- id: doi:10.1101/2024.03.19.585643
-  title: Epigenetic and transcriptional consequences of chemically induced transposon
-    mobilization in the endosperm
-  authors:
-  - "Gerardo del Toro-de Le\xF3n"
-  - Joram van Boven
-  - "Juan Santos-Gonz\xE1lez"
-  - Wen-Biao Jiao
-  - Korbinian Schneeberger
-  - "Claudia K\xF6hler"
-  publisher: openRxiv
-  date: '2024-03-21'
-  link: https://doi.org/hcb9v6
-  orcid: 0000-0003-2079-1746
-  gerardo: true
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1101/2023.12.07.569203
-  title: BRI1-mediated removal of seed coat H3K27me3 marks is a brassinosteroid-independent
-    process
-  authors:
-  - Rishabh Pankaj
-  - Rita B. Lima
-  - Guan-Yu Luo
-  - Sinah Ehlert
-  - "Gerardo del Toro-de Le\xF3n"
-  - Heinrich Bente
-  - Pascal Finger
-  - Hikaru Sato
-  - Duarte D. Figueiredo
-  publisher: openRxiv
-  date: '2023-12-08'
-  link: https://doi.org/hcb9v7
-  orcid: 0000-0003-2079-1746
-  gerardo: true
-  plugin: orcid.py
-  file: orcid.yaml
 - id: doi:10.1098/rstb.2020.0118
   title: 'Postzygotic reproductive isolation established in the endosperm: mechanisms,
     drivers and relevance'
@@ -129,8 +82,6 @@
   publisher: Philosophical Transactions of the Royal Society B
   date: '2021-04-19'
   link: https://doi.org/gmphtq
-  orcid: 0000-0003-2079-1746
-  gerardo: true
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1007/s00497-018-00356-3
@@ -141,24 +92,6 @@
   publisher: Plant Reproduction
   date: '2018-12-26'
   link: https://doi.org/gjcrq8
-  orcid: 0000-0003-2079-1746
-  gerardo: true
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.1186/s13059-019-1652-0
-  title: Epigenetic signatures associated with imprinted paternally expressed genes
-    in the Arabidopsis endosperm
-  authors:
-  - Jordi Moreno-Romero
-  - "Gerardo Del Toro-De Le\xF3n"
-  - Vikash Kumar Yadav
-  - "Juan Santos-Gonz\xE1lez"
-  - "Claudia K\xF6hler"
-  publisher: Genome Biology
-  date: '2019-02-21'
-  link: https://doi.org/gjcrpt
-  orcid: 0000-0003-2079-1746
-  gerardo: true
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1016/j.devcel.2018.07.014
@@ -173,8 +106,6 @@
   publisher: Developmental Cell
   date: '2018-09-01'
   link: https://doi.org/gfcf6g
-  orcid: 0000-0003-2079-1746
-  gerardo: true
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1016/j.pbi.2015.12.007
@@ -186,8 +117,6 @@
   publisher: Current Opinion in Plant Biology
   date: '2016-02-01'
   link: https://doi.org/f8bw9n
-  orcid: 0000-0003-2079-1746
-  gerardo: true
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1038/nature13620
@@ -200,7 +129,19 @@
   publisher: Nature
   date: '2014-09-07'
   link: https://doi.org/f6m3bz
-  orcid: 0000-0003-2079-1746
-  gerardo: true
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1186/s13059-019-1652-0
+  title: Epigenetic signatures associated with imprinted paternally expressed genes
+    in the Arabidopsis endosperm
+  authors:
+  - Jordi Moreno-Romero
+  - "Gerardo Del Toro-De Le\xF3n"
+  - Vikash Kumar Yadav
+  - "Juan Santos-Gonz\xE1lez"
+  - "Claudia K\xF6hler"
+  publisher: Genome Biology
+  date: '2019-02-21'
+  link: https://doi.org/gjcrpt
   plugin: sources.py
   file: sources.yaml
