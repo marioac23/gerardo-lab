@@ -1,7 +1,7 @@
 ---
 title: Cienciomica
 nav:
-  order: 5
+  order: 6
   tooltip: Musings and miscellany
 ---
 
