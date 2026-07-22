@@ -9,6 +9,7 @@ aliases:
 links:
   home-page: https://janesmith.com
   orcid: 0000-0003-2079-1746
+  email: something@gmail.com
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
