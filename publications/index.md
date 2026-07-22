@@ -18,7 +18,7 @@ nav:
 
 ## Highlighted
 
-{% include list.html data="citations" component="citation" filter="date >= '2025-07-22'" %}
+{% include list.html data="citations" component="citation" filter="date >= '2025-07-22'" style="rich" %}
 
 
 {% include section.html %}
