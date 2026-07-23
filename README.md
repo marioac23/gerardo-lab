@@ -5,6 +5,6 @@
 
   # marioac23's Website
 
-  Visit **[marioac23.github.io/gerardo-lab](https://marioac23.github.io/gerardo-lab)** 🚀
+  Visit **[marioac23.github.io/gerardo-labrilar](https://marioac23.github.io/gerardo-labrilar)** 🚀
 
   _Built with [Lab Website Template](https://greene-lab.gitbook.io/lab-website-template-docs)_
